@@ -1,0 +1,1 @@
+---\nlayout: page\ntitle: Contact\npermalink: /contact/\n---\nEmail: [your-email@example.com](mailto:your-email@example.com)
